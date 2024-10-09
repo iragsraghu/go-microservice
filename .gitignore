@@ -1,0 +1,7 @@
+# Ignore .env file for sensitive information
+.env
+
+# Other ignore rules can be added here
+*.log
+*.tmp
+*.swp
